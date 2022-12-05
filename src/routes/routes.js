@@ -7,7 +7,7 @@ const {
   addMascotaController,
   updateMascotaController,
   deleteMascotaController,
-} = require("../controllers/MascotaController");
+} = require("../controllers/mascotaController");
 const getImageMascotaMiddleware = require("../utils/middlewares/getImagenMascotaMiddleware");
 
 //const { route } = require("../server/server");
